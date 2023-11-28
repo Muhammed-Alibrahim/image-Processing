@@ -1,1 +1,1 @@
-# g-r-nt-i-leme
+görüntü işleme
